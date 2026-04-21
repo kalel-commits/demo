@@ -1,1 +1,1 @@
-def new_risk_engine_60(): return 'fd21f3e8-b81a-4d08-8f4a-0f5d65a95e56'
+def new_risk_engine_60(): return '196ba71e-e923-4215-a674-b9bcc3cb33c7'
